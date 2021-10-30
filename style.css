@@ -1,0 +1,48 @@
+.box{
+    height: 500px;
+    width: 500px;
+    border-radius: 10%;
+    background-color: rgb(194, 78, 42);
+    display: flex;
+}
+.stor1{
+    margin: auto ;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    border-radius: 20%;
+    display: flex;
+}
+.stor2{
+    width: 350px;
+    height: 350px;
+    background-color: rgb(194, 78, 42);
+    margin: auto;
+    border-radius: 20%;
+    display: flex;
+}
+.stor3{
+    width: 240px;
+    height: 240px;
+    background-color: white;
+    margin: auto;
+    border-radius: 100%;
+    display: flex;
+}
+.stor4{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(194, 78, 42);
+    margin: auto;
+    border-radius: 100%;
+}
+.dot{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 370px;
+    top: 120px;
+    border-radius: 100%;
+}
+
